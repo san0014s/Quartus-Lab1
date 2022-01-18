@@ -1,0 +1,6 @@
+|Q2
+f <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+x2 => inst.IN0
+x1 => inst.IN1
+
+
